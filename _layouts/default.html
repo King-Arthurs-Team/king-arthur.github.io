@@ -1,0 +1,36 @@
+<!-- _layouts/default.html -->
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | King-Arthurs Server</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+
+<body class="parchment-bg">
+    <header class="site-header">
+        <h1 class="site-title">King-Arthurs Server</h1>
+        <h2 class="site-sub">Ein Reich der Spiele</h2>
+        <nav class="nav-bar">
+            {% for item in site.pages %}
+            {% if item.title %}
+            <a href="{{ item.url }}">{{ item.title }}</a>
+            {% endif %}
+            {% endfor %}
+        </nav>
+    </header>
+
+
+    <main class="content-area">
+        {{ content }}
+    </main>
+
+
+    <footer class="site-footer">
+        <p>Made with ❤️ & mittelalterlichem Geist — King-Arthurs Team</p>
+    </footer>
+</body>
+
+</html>
