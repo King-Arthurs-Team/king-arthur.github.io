@@ -8,8 +8,8 @@ body {
 }
 
 .parchment-bg {
-  background: #1a1410 url('https://upload.wikimedia.org/wikipedia/commons/0/09/Old_paper_texture_background.jpg') repeat;
-  background-size: 600px;
+  background: #1a1410 url('/assets/img/background.png') repeat;
+  background-size: cover;
 }
 
 /* --- Header --- */
