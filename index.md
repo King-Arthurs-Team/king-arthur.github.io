@@ -1,43 +1,57 @@
 ---
-title: "Startseite"
+title: "Home"
+lang: en
 nav_exclude: true
 layout: default
 ---
 
-# 🛡️ King-Arthurs Server  
-### *Luanti & More in a Medieval Realm*
+# 🏰 Welcome to King-Arthur's Server Realm
 
+Enter a world forged in stone, iron and adventure —  
+a growing collection of dedicated game servers maintained by the **King-Arthurs Team**.
 
-Willkommen auf dem **King-Arthurs Server**, dem Tor zu mehreren Welten voller Abenteuer, Bauten, Kreativität und gemeinschaftlichem Spiel.
-
-Hier findest du Informationen zu allen Spielen, die wir hosten, unseren Mods, unserer Community sowie unserem zentralen Luanti-Server.
-
----
-
-## ⚔️ Spielewelten
-
-Unsere wachsende Sammlung an Spiele-Servern:
-
-- 🏰 **[Luanti](games/luanti.md)** – Blockwelt, Kreativität, Community  
-- 🌾 **[Vintage Story](games/vintagestory.md)** – Survival in einer rauen Welt  
-- 🐉 **[ARK: Survival Evolved](games/ark.md)** – Dinosaurier, Basen, Überleben  
+Our goal is to provide a friendly, stable and immersive place for players who enjoy building, survival, exploration and long-term community projects.
 
 ---
 
-## 🛠️ Mods
+## 🎮 Available Games
 
-Unsere Mods werden gesammelt auf GitHub gehostet:
+Below you will find an overview of the game worlds currently part of the realm.  
+Each game has its own dedicated page:
 
-👉 **[Github](https://github.com/King-Arthurs-Team)**
+- [Luanti](/games/luanti)
+- [Vintage Story](/games/vintagestory)
+- [ARK](/games/ark)
 
-Weitere Infos zu den Mods findest du auf den jeweiligen Spielseiten.
+More worlds may be added in the future.
 
 ---
 
-## 🧙 Gemeinschaft & Kontakt
+## 🛡️ About Us
 
-Wir arbeiten ständig daran, die Welten weiter zu verbessern.  
-Hast du Ideen, Lust mitzubauen oder willst Teil unserer Welt werden?
+King-Arthur's Server is a hobby-driven, community-focused project.  
+We run our servers privately and free of charge, purely for enjoyment and experimentation.
 
-**Werde Teil von King-Arthurs Reich!**
+We use custom mods, unique gameplay mechanics, and offer a stable hosting environment to ensure every adventure feels alive.
 
+If you want to know more or support development, feel free to explore our repositories.
+
+---
+
+## 📬 Contact
+
+You can reach out to us here:
+
+- **GitHub Team:**  
+  https://github.com/King-Arthurs-Team  
+
+- **Discord Community:**  
+  https://discord.gg/y4zF4US6fa  
+
+Join us if you want to play, ask questions, help with development, or simply hang out with fellow adventurers!
+
+---
+
+## ⚔️ Enjoy your stay!
+
+May your journeys be long, your builds mighty, and your adventures legendary.

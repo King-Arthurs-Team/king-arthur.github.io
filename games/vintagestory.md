@@ -1,23 +1,31 @@
-# 🌾 Vintage Story – Das raue Land
+---
+title: "Vintage Story"
+layout: default
+lang: en
+---
 
-Vintage Story ist eine anspruchsvolle Survival-Welt voller Naturgefahren, Crafting und Entdeckung.
+# 🌾 Vintage Story – King-Arthurs
+
+## 🛡️ Server Information
+
+| Setting         | Value                                   |
+|-----------------|-----------------------------------------|
+| **Address**     | king-arthur.eu                          |
+| **Port**        | 42420                                   |
+| **Password**    | required                                |
+| **Direct Join** | vintagestoryjoin://45.129.181.220:42420 |
+
+> [!WARNING]
+> Our Vintage Story server **uses a password**.  
+> To join, please contact us so we can provide it to you.
+
+> [!TIP]
+> You may [join directly using this link.](vintagestoryjoin://45.129.181.220:42420).
 
 ---
 
-## 🌟 Server  
-**King-Arthurs Vintage-Story-Reich**
-
-## ⚒️ Features  
-- Anspruchsvolles Survival  
-- Rohstoffabbau und Schmieden  
-- Kolonien & gemeinsames Bauen
+Vintage Story offers deep survival, exploration and seasonal challenges in a handcrafted world.
 
 ---
 
-## 🛠️ Mods  
-Bis jetzt nur allgemeine Verlinkung:  
-👉 https://github.com/King-Arthurs-Team
-
----
-
-Mehr Details folgen bald!
+More information will be added soon.

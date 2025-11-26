@@ -1,22 +1,23 @@
-# 🐉 ARK – Primal Adventures
+---
+title: "ARK"
+layout: default
+lang: en
+---
 
-Überlebe in einer gefährlichen, wilden Welt voller Dinos, Basenbau und Exploration.
+# 🐉 ARK – King-Arthur's Dino Realm
+
+> [!WARNING]
+> The ARK servers are currently **offline**.  
+> They will return after major updates and restructuring.
+
+## 🛡️ Server Information
+
+| Setting        | Value                  |
+|----------------|------------------------|
+| **Address**    | offline                |
+| **Port**       | offline                |
+| **Password**   | offline                |
 
 ---
 
-## 🌟 Server  
-**King-Arthurs Dino-Reich**
-
-## 🦖 Features  
-- Survival & Crafting  
-- Dinosaurierzähmung  
-- Basenbau & Stämme
-
----
-
-## 🛠️ Mods  
-👉 https://github.com/King-Arthurs-Team  
-
-(ARK-spezifische Modliste folgt später.)
-
----
+Updates will be posted once the servers return.
