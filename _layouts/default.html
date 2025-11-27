@@ -32,7 +32,7 @@
         <aside class="sidebar">
             <h3 class="sidebar-title">Games</h3>
             <div class="game-cards sidebar-cards">
-                {% assign gamepages = site.pages | where_exp:"p","p.path contains '/games/'" | sort: "order" %}:"p","p.path contains '/games/'" %}
+                {% assign gamepages = site.pages | where_exp:"p","p.path contains '/games/'" | sort: "order" %}
                 {% for p in gamepages %}
                 <a class="game-card" href="{{ p.url }}">
                     {% if p.icon %}<img class="game-icon" src="{{ p.icon }}" alt="{{ p.title }} icon">{% endif %}
