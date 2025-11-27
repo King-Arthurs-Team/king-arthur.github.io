@@ -21,16 +21,34 @@
             {% endfor %}
         </nav>
         <!-- Language Switch -->
-        <span class="lang-switch">
+        <!--<span class="lang-switch">
             <a href="{{ page.url | replace: '/de/','/en/' }}">EN</a> |
             <a href="{{ page.url | replace: '/en/','/de/' }}">DE</a>
-        </span>
+        </span>-->
     </header>
 
 
-    <main class="content-area">
-        {{ content }}
-    </main>
+    <div class="page-wrapper">
+        <aside class="sidebar">
+            <h3 class="sidebar-title">Games</h3>
+            <div class="game-cards sidebar-cards">
+                {% assign gamepages = site.pages | where_exp:"p","p.path contains '/games/'" | sort: "order"
+                %}:"p","p.path contains '/games/'" %}
+                {% for p in gamepages %}
+                <a class="game-card" href="{{ p.url }}">
+                    {% if p.icon %}<img class="game-icon" src="{{ p.icon }}" alt="{{ p.title }} icon">{% endif %}
+                    <h4>{{ p.title }}</h4>
+                    <p>{{ p.description | default: "Click to learn more about this game." }}</p>
+                </a>
+                {% endfor %}
+            </div>
+        </aside>
+
+
+        <main class="content-area">
+            {{ content }}
+        </main>
+    </div>
 
 
     <footer class="site-footer">

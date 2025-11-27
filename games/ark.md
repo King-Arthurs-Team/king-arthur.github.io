@@ -2,6 +2,8 @@
 title: "ARK"
 layout: default
 lang: en
+order: 3
+icon: "/assets/img/icons/ark.png"
 ---
 
 # 🐉 ARK – King-Arthur's Dino Realm

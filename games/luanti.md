@@ -2,6 +2,8 @@
 title: "Luanti"
 layout: default
 lang: en
+order: 1
+icon: "/assets/img/icons/luanti.svg"
 ---
 
 # 🏰 Luanti – King-Arthur's Land
