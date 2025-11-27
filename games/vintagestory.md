@@ -3,7 +3,7 @@ title: "Vintage Story"
 layout: default
 lang: en
 order: 2
-icon: "/assets/img/icons/vintagestory.png"
+icon: "/assets/img/gameicons/vintagestory.png"
 ---
 
 # 🌾 Vintage Story – King-Arthurs
