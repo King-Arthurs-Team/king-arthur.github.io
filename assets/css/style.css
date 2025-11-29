@@ -111,6 +111,21 @@ li {
   border-bottom-color: #7a5a3c;
 }
 
+blockquote {
+    background: url('/assets/img/blockquote-parchment.png');
+    background-size: cover;
+    background-position: center;
+    padding: 1.5rem 2rem;
+    border: 2px solid #4a3a23;
+    border-radius: 8px;
+    margin: 1.5rem 0;
+    color: #2b1f12;
+    font-family: "EB Garamond", "Times New Roman", serif;
+    font-size: 1.05rem;
+    box-shadow: 0 0 8px rgba(0,0,0,0.4);
+    position: relative;
+}
+
 hr {
   border: 0;
   height: 2px;
