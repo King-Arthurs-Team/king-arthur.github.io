@@ -124,6 +124,7 @@ li {
   color: #2b1f12;
   font-family: "EB Garamond", "Times New Roman", serif;
 }
+
 .content-area blockquote * {
   z-index: 2;
   position: relative;
@@ -216,7 +217,7 @@ table tr:hover {
 
 .sidebar-title {
   font-family: "UnifrakturCook", serif;
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   margin-top: 0;
   color: #d9c29c;
   text-align: center;
@@ -232,24 +233,31 @@ table tr:hover {
 
 .sidebar-cards .game-card h4 {
   margin: 0;
-  font-size: 1.2rem;
+  font-size: 1rem;
   color: #d9c29c;
 }
 
 
-/* --- Responsive: Sidebar moves above content on mobile --- */
 @media (max-width: 800px) {
   .page-wrapper {
     flex-direction: column;
   }
 
-
   .sidebar {
     width: 100%;
     order: -1;
   }
-}
 
+  .sidebar-cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .sidebar-cards .game-card {
+    flex: 1;
+    margin: 2%;
+  }
+}
 
 /* --- Game Icons --- */
 .game-icon {
