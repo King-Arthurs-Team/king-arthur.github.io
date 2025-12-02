@@ -20,6 +20,8 @@ icon: "/assets/img/gameicons/luanti.svg"
 > To build on the server, you must register **in-game using your e-mail address**.  
 > This helps us prevent griefing and protect the realm.
 
+> [!IMPORTANT]
+> Currently registration is not working. It's planned to bring it back in January 2025.
 ---
 
 ## 🗺️ Server Map
