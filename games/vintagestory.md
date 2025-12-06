@@ -1,7 +1,5 @@
 ---
 title: "Vintage Story"
-layout: default
-lang: en
 order: 20
 icon: "/assets/img/gameicons/vintagestory.png"
 ---

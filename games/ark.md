@@ -1,7 +1,5 @@
 ---
 title: "ARK"
-layout: default
-lang: en
 order: 30
 icon: "/assets/img/gameicons/ark.png"
 ---

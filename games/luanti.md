@@ -1,7 +1,5 @@
 ---
 title: "Luanti"
-layout: default
-lang: en
 order: 10
 icon: "/assets/img/gameicons/luanti.svg"
 ---
