@@ -1,7 +1,7 @@
 ---
 title: "Project Zomboid"
 layout: "default"
-sort_order: 60
+order: 60
 icon: "/assets/img/gameicons/projectzomboid.png"
 ---
 

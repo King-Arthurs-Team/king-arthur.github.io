@@ -1,7 +1,7 @@
 ---
 title: "Seven Days to Die"
 layout: "default"
-sort_order: 50
+order: 50
 icon: "/assets/img/gameicons/sevendaystodie.png"
 ---
 

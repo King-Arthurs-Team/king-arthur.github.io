@@ -1,7 +1,7 @@
 ---
 title: "Valheim"
 layout: "default"
-sort_order: 40
+order: 40
 icon: "/assets/img/gameicons/valheim.png"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Satisfactory"
 layout: "default"
-sort_order: 70
+order: 70
 icon: "/assets/img/gameicons/satisfactory.png"
 ---
 
