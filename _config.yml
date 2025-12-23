@@ -5,3 +5,19 @@ description: Welcome to King-Arthurs server
 markdown: GFM 
 plugins:
 - jekyll-gfm-admonitions
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "games"
+      type: "pages"
+    values:
+      layout: "default"
+      lang: en
+      online: true

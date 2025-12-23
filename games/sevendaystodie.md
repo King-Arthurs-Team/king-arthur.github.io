@@ -2,6 +2,7 @@
 title: "Seven Days to Die"
 order: 50
 icon: "/assets/img/gameicons/sevendaystodie.png"
+online: false
 ---
 
 # Seven Days to Die

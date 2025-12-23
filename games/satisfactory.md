@@ -1,8 +1,8 @@
 ---
 title: "Satisfactory"
-layout: "default"
 order: 70
 icon: "/assets/img/gameicons/satisfactory.png"
+online: false
 ---
 
 # Satisfactory

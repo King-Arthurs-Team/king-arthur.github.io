@@ -2,6 +2,7 @@
 title: "Valheim"
 order: 40
 icon: "/assets/img/gameicons/valheim.png"
+online: false
 ---
 
 # Valheim

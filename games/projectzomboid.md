@@ -2,6 +2,7 @@
 title: "Project Zomboid"
 order: 60
 icon: "/assets/img/gameicons/projectzomboid.png"
+online: false
 ---
 
 # Project Zomboid

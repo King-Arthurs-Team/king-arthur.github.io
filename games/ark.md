@@ -2,6 +2,7 @@
 title: "ARK"
 order: 30
 icon: "/assets/img/gameicons/ark.png"
+online: false
 ---
 
 # 🐉 ARK – King-Arthur's Dino Realm
